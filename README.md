@@ -1,1 +1,1 @@
-# TehnicalUniversity
+# TehnicalUniversity-Python
